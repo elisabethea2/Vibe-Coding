@@ -8,14 +8,6 @@ https://vantage-controls-validation.lovable.app/
 
 ## What it tests
 
-_Tie it back to the validation brief: which assumption does this prototype put in front of a user?_
-
-Sí. Vamos campo por campo como antes.
-El Shareable link todavía depende de que publiques/compartas el proyecto de Lovable, así que ese simplemente será la URL.
-El siguiente es:
-What it tests
-La pregunta exacta es “which assumption does this put in front of a user?”. M2 · Lab Guide, Vibe Coding Certification.pdfPDF
-Yo pondría:
 Tests whether Action Owners can understand what they need to do, identify the required evidence, and move a control action forward without additional clarification when the action is structured around a clear Finding, Recommendation, and Required Evidence.
 
 ## Context injected (no placeholders)
